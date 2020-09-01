@@ -1,0 +1,875 @@
+[
+  {
+    "id": 120,
+    "name": "Memulai Pemrograman Dengan C",
+    "description": "Belajar programming menggunakan bahasa C yang menjadi populer dikarenakan cepat dan mudah untuk dipelajari bagi para pemula.",
+    "logo": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/memulai_pemrograman_dengan_c_logo_071119142141.png",
+    "link": "https://www.dicoding.com/academies/120",
+    "students": 10906,
+    "modules": 42,
+    "hours": 40,
+    "rating": 0,
+    "levels": [
+      0
+    ],
+    "platforms": [
+      18
+    ],
+    "type": "free",
+    "learningPaths": [
+      ""
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Memulai Pemrograman Dengan Java",
+    "description": "Belajar bahasa Java buat kamu yang ingin mempelajari konsep Pemrograman Berorientasi Objek (PBO) terpopuler untuk mengembangkan aplikasi.",
+    "logo": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/memulai_pemrograman_dengan_java_logo_071119140151.png",
+    "link": "https://www.dicoding.com/academies/60",
+    "students": 36259,
+    "modules": 40,
+    "hours": 40,
+    "rating": 0,
+    "levels": [
+      0
+    ],
+    "platforms": [
+      2,
+      18
+    ],
+    "type": "free",
+    "learningPaths": [
+      ""
+    ]
+  },
+  {
+    "id": 86,
+    "name": "Memulai Pemrograman Dengan Python",
+    "description": "Belajar Python yang menjadi landasan penting berbagai tren industri seperti ilmu data, pemelajaran mesin, dan manajemen infrastruktur.",
+    "logo": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/memulai_pemrograman_dengan_python_logo_071119140316.png",
+    "link": "https://www.dicoding.com/academies/86",
+    "students": 21720,
+    "modules": 33,
+    "hours": 40,
+    "rating": 4.74,
+    "levels": [
+      0
+    ],
+    "platforms": [
+      15,
+      14
+    ],
+    "type": "paid",
+    "learningPaths": [
+      "Machine Learning Developer"
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Memulai Pemrograman Dengan Kotlin",
+    "description": "Kelas pengantar untuk mempelajari Functional Programming serta Object-Oriented Programming (OOP) menggunakan Kotlin.",
+    "logo": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/memulai_pemrograman_dengan_kotlin_logo_071119141033.png",
+    "link": "https://www.dicoding.com/academies/80",
+    "students": 22632,
+    "modules": 112,
+    "hours": 40,
+    "rating": 4.88,
+    "levels": [
+      0,
+      1
+    ],
+    "platforms": [
+      2,
+      18
+    ],
+    "type": "paid",
+    "learningPaths": [
+      "Android Developer"
+    ]
+  },
+  {
+    "id": 169,
+    "name": "Belajar Prinsip Pemrograman SOLID",
+    "description": "Pelajari kelima prinsip desain yang merupakan pedoman untuk rancangan kode yang baik pada pemrograman berorientasi objek (OOP).",
+    "logo": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/belajar_prinsip_pemrograman_solid_logo_160320152324.png",
+    "link": "https://www.dicoding.com/academies/169",
+    "students": 9544,
+    "modules": 28,
+    "hours": 20,
+    "rating": 4.88,
+    "levels": [
+      0
+    ],
+    "platforms": [
+      2,
+      1,
+      18,
+      7
+    ],
+    "type": "free",
+    "learningPaths": [
+      "Multi-Platform App Developer",
+      "iOS Developer",
+      "Android Developer"
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Belajar Membuat Aplikasi Android untuk Pemula",
+    "description": "Pelajari cara membuat aplikasi pertamamu dengan Android Studio. Kelas ini mengajarkan dasar Android mulai dari Intent sampai RecyclerView.",
+    "logo": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/belajar_membuat_aplikasi_android_untuk_pemula_logo_071119140631.png",
+    "link": "https://www.dicoding.com/academies/51",
+    "students": 86024,
+    "modules": 28,
+    "hours": 40,
+    "rating": 4.89,
+    "levels": [
+      1
+    ],
+    "platforms": [
+      2
+    ],
+    "type": "paid",
+    "learningPaths": [
+      "Android Developer"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Belajar Fundamental Aplikasi Android",
+    "description": "Pelajari skill Android dengan kurikulum terlengkap yang dibutuhkan oleh perusahaan. Mulai dari design pattern, testing, API sampai database.",
+    "logo": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/menjadi_android_developer_expert_logo_071119140536.png",
+    "link": "https://www.dicoding.com/academies/14",
+    "students": 29607,
+    "modules": 145,
+    "hours": 140,
+    "rating": 4.94,
+    "levels": [
+      4
+    ],
+    "platforms": [
+      2
+    ],
+    "type": "paid",
+    "learningPaths": [
+      "Android Developer"
+    ]
+  },
+  {
+    "id": 129,
+    "name": "Belajar Android Jetpack Pro",
+    "description": "Pelajari Android Jetpack dengan berbagai fitur canggih dan sudah diimplementasikan 80% dari 1000 aplikasi terbaik di Google Play Store.",
+    "logo": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/belajar_android_jetpack_pro_logo_071119141410.png",
+    "link": "https://www.dicoding.com/academies/129",
+    "students": 1944,
+    "modules": 58,
+    "hours": 70,
+    "rating": 4.93,
+    "levels": [
+      2
+    ],
+    "platforms": [
+      2
+    ],
+    "type": "paid",
+    "learningPaths": [
+      "Android Developer"
+    ]
+  },
+  {
+    "id": 165,
+    "name": "Menjadi Android Developer Expert",
+    "description": "Saatnya menjadi Android Expert dengan belajar Clean Architecture, Reactive, Dependency Injection, Modularization, Performance, dan Security.",
+    "logo": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/menjadi_android_developer_expert_logo_240320135733.jpg",
+    "link": "https://www.dicoding.com/academies/165",
+    "students": 153,
+    "modules": 83,
+    "hours": 70,
+    "rating": 0,
+    "levels": [
+      3
+    ],
+    "platforms": [
+      2
+    ],
+    "type": "paid",
+    "learningPaths": [
+      "Android Developer"
+    ]
+  },
+  {
+    "id": 116,
+    "name": "Source Code Management untuk Pemula",
+    "description": "Pelajari teknik mengelola aplikasi dan berkolaborasi antara developer, dengan menggunakan source code management (version control).",
+    "logo": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/source_code_management_untuk_pemula_logo_071119140353.png",
+    "link": "https://www.dicoding.com/academies/116",
+    "students": 7816,
+    "modules": 19,
+    "hours": 40,
+    "rating": 0,
+    "levels": [
+      1
+    ],
+    "platforms": [
+      18
+    ],
+    "type": "free",
+    "learningPaths": [
+      ""
+    ]
+  },
+  {
+    "id": 145,
+    "name": "Memulai Pemrograman Dengan Swift",
+    "description": "Belajar bahasa Swift buat kamu yang ingin mempelajari konsep Pemrograman Berorientasi Objek (PBO) dalam mengembangkan iOS dan OS X.",
+    "logo": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/memulai_pemrograman_dengan_swift_logo_311219165842.png",
+    "link": "https://www.dicoding.com/academies/145",
+    "students": 4427,
+    "modules": 88,
+    "hours": 40,
+    "rating": 4.82,
+    "levels": [
+      0
+    ],
+    "platforms": [
+      1
+    ],
+    "type": "paid",
+    "learningPaths": [
+      "iOS Developer"
+    ]
+  },
+  {
+    "id": 171,
+    "name": "Belajar Membuat Aplikasi iOS untuk Pemula",
+    "description": "Pelajari cara membuat aplikasi pertamamu dengan XCode. Kelas ini mengajarkan dasar iOS mulai dari Controller sampai TableViews.",
+    "logo": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/belajar_membuat_aplikasi_ios_untuk_pemula_logo_110320143925.png",
+    "link": "https://www.dicoding.com/academies/171",
+    "students": 880,
+    "modules": 52,
+    "hours": 40,
+    "rating": 4.68,
+    "levels": [
+      1
+    ],
+    "platforms": [
+      1
+    ],
+    "type": "paid",
+    "learningPaths": [
+      "iOS Developer"
+    ]
+  },
+  {
+    "id": 202,
+    "name": "Belajar Fundamental Aplikasi iOS",
+    "description": "Pelajari komponen fundamental iOS berdasarkan teknik yang digunakan industri mulai dari App Design, SwiftUI, Networking, sampai Database.",
+    "logo": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/belajar_fundamental_aplikasi_ios_logo_230320222535.jpg",
+    "link": "https://www.dicoding.com/academies/202",
+    "students": 267,
+    "modules": 104,
+    "hours": 70,
+    "rating": 4.7,
+    "levels": [
+      4
+    ],
+    "platforms": [
+      1
+    ],
+    "type": "paid",
+    "learningPaths": [
+      "iOS Developer"
+    ]
+  },
+  {
+    "id": 209,
+    "name": "Menjadi iOS Developer Expert",
+    "description": "Tingkatkan skill kamu menjadi seorang iOS expert dengan kurikulum yang fokus pada case study dan best practice dari pelaku industri.",
+    "logo": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/menjadi_ios_developer_expert_logo_230320222603.jpg",
+    "link": "https://www.dicoding.com/academies/209",
+    "students": 0,
+    "modules": 0,
+    "hours": 70,
+    "rating": 0,
+    "levels": [
+      2
+    ],
+    "platforms": [
+      1
+    ],
+    "type": "paid",
+    "learningPaths": [
+      "iOS Developer"
+    ]
+  },
+  {
+    "id": 123,
+    "name": "Belajar Dasar Pemrograman Web",
+    "description": "Pelajari komponen-komponen dasar HTML, CSS, dan JavaScript yang merupakan fondasi utama untuk menjadi Web Developer.",
+    "logo": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/belajar_dasar_pemrograman_web_logo_071119140439.png",
+    "link": "https://www.dicoding.com/academies/123",
+    "students": 53492,
+    "modules": 159,
+    "hours": 55,
+    "rating": 4.84,
+    "levels": [
+      0,
+      1
+    ],
+    "platforms": [
+      7
+    ],
+    "type": "paid",
+    "learningPaths": [
+      "Front-End Web Developer"
+    ]
+  },
+  {
+    "id": 163,
+    "name": "Belajar Fundamental Front-End Web Development",
+    "description": "Pelajari sintaks ES6, Web Component, dan Build Tools dalam membangun website dengan teknik yang simple, reusable, dan optimized.",
+    "logo": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/belajar_pemrograman_web_untuk_pemula_logo_090320163400.jpg",
+    "link": "https://www.dicoding.com/academies/163",
+    "students": 18124,
+    "modules": 133,
+    "hours": 70,
+    "rating": 4.83,
+    "levels": [
+      1,
+      4
+    ],
+    "platforms": [
+      7
+    ],
+    "type": "paid",
+    "learningPaths": [
+      "Front-End Web Developer"
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Membangun Progressive Web Apps",
+    "description": "Pelajari strategi single page application, offline caching, dan push notification agar web Anda memiliki fungsi layaknya aplikasi native.",
+    "logo": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/membangun_progressive_web_apps_logo_071119140959.png",
+    "link": "https://www.dicoding.com/academies/74",
+    "students": 5723,
+    "modules": 59,
+    "hours": 70,
+    "rating": 4.94,
+    "levels": [
+      4,
+      2
+    ],
+    "platforms": [
+      7
+    ],
+    "type": "paid",
+    "learningPaths": [
+      "Front-End Web Developer"
+    ]
+  },
+  {
+    "id": 219,
+    "name": "Menjadi Front-End Web Developer Expert",
+    "description": "Pelajari teknik-teknik expert serta modern dalam membangun website yang optimal pada seluruh perangkat, terutama pada perangkat mobile.",
+    "logo": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/menjadi_mobile_web_specialist_logo_230320225628.jpg",
+    "link": "https://www.dicoding.com/academies/219",
+    "students": 435,
+    "modules": 172,
+    "hours": 70,
+    "rating": 5,
+    "levels": [
+      3
+    ],
+    "platforms": [
+      7
+    ],
+    "type": "paid",
+    "learningPaths": [
+      "Front-End Web Developer"
+    ]
+  },
+  {
+    "id": 133,
+    "name": "Menjadi Google Cloud Engineer",
+    "description": "Pelajari konsep dan terminologi cloud beserta berbagai layanan Google Cloud sesuai kebutuhan sertifikasi Google Associate Cloud Engineer.",
+    "logo": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/menjadi_google_cloud_engineer_logo_071119141421.png",
+    "link": "https://www.dicoding.com/academies/133",
+    "students": 1015,
+    "modules": 77,
+    "hours": 70,
+    "rating": 5,
+    "levels": [
+      1,
+      4
+    ],
+    "platforms": [
+      12,
+      7
+    ],
+    "type": "paid",
+    "learningPaths": [
+      ""
+    ]
+  },
+  {
+    "id": 144,
+    "name": "Belajar Dasar-Dasar Azure Cloud",
+    "description": "Pahami prinsip dan konsep dari komputasi awan disertai pengenalan layanan-layanan dari Microsoft Azure sesuai kebutuhan sertifikasi AZ-900.",
+    "logo": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/belajar_dasar_dasar_azure_cloud_logo_071119141523.png",
+    "link": "https://www.dicoding.com/academies/144",
+    "students": 5084,
+    "modules": 94,
+    "hours": 40,
+    "rating": 4.89,
+    "levels": [
+      0
+    ],
+    "platforms": [
+      12
+    ],
+    "type": "paid",
+    "learningPaths": [
+      "Azure Cloud Developer"
+    ]
+  },
+  {
+    "id": 83,
+    "name": "Menjadi Azure Cloud Developer",
+    "description": "Pelajari konsep dan terminologi cloud beserta berbagai layanan Azured Cloud sesuai kebutuhan sertifikasi Azure Developer Associate.",
+    "logo": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/menjadi_azure_cloud_developer_logo_120720211415.png",
+    "link": "https://www.dicoding.com/academies/83",
+    "students": 3177,
+    "modules": 79,
+    "hours": 70,
+    "rating": 4.93,
+    "levels": [
+      1,
+      4
+    ],
+    "platforms": [
+      12,
+      7
+    ],
+    "type": "paid",
+    "learningPaths": [
+      "Azure Cloud Developer"
+    ]
+  },
+  {
+    "id": 104,
+    "name": "Menjadi AWS Solutions Architect Associate",
+    "description": "Pelajari teknologi AWS yang digunakan oleh industri terkemuka sesuai kebutuhan sertifikasi AWS Solutions Architect Associate.",
+    "logo": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/belajar_menjadi_aws_solutions_architect_associate_logo_071119141240.png",
+    "link": "https://www.dicoding.com/academies/104",
+    "students": 1578,
+    "modules": 73,
+    "hours": 40,
+    "rating": 4.85,
+    "levels": [
+      1,
+      4
+    ],
+    "platforms": [
+      12,
+      7
+    ],
+    "type": "paid",
+    "learningPaths": [
+      ""
+    ]
+  },
+  {
+    "id": 191,
+    "name": "Memulai Pemrograman Dengan Dart",
+    "description": "Kelas pengantar buat kamu yang ingin mempelajari bahasa populer dari Google untuk mengembangkan aplikasi multiplatform seperti Flutter.",
+    "logo": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/memulai_pemrograman_dengan_dart_logo_230320223401.jpg",
+    "link": "https://www.dicoding.com/academies/191",
+    "students": 4049,
+    "modules": 65,
+    "hours": 40,
+    "rating": 4.85,
+    "levels": [
+      0
+    ],
+    "platforms": [
+      18
+    ],
+    "type": "paid",
+    "learningPaths": [
+      "Multi-Platform App Developer"
+    ]
+  },
+  {
+    "id": 159,
+    "name": "Belajar Membuat Aplikasi Flutter untuk Pemula",
+    "description": "Pelajari cara membuat aplikasi multi-platform pertamamu menggunakan Flutter. Kelas ini mengajarkan mulai dari fundamental hingga widget.",
+    "logo": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/belajar_membuat_aplikasi_flutter_untuk_pemula_logo_230320223038.jpg",
+    "link": "https://www.dicoding.com/academies/159",
+    "students": 594,
+    "modules": 35,
+    "hours": 40,
+    "rating": 4.8,
+    "levels": [
+      1
+    ],
+    "platforms": [
+      2,
+      1,
+      18
+    ],
+    "type": "paid",
+    "learningPaths": [
+      "Multi-Platform App Developer"
+    ]
+  },
+  {
+    "id": 195,
+    "name": "Belajar Fundamental Aplikasi Flutter",
+    "description": "Pelajari skill Flutter dengan kurikulum terlengkap yang dibutuhkan oleh perusahaan seperti advance layouts, interactive widgets dan backend.",
+    "logo": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/belajar_fundamental_aplikasi_flutter_logo_230320223114.jpg",
+    "link": "https://www.dicoding.com/academies/195",
+    "students": 0,
+    "modules": 0,
+    "hours": 70,
+    "rating": 0,
+    "levels": [
+      4
+    ],
+    "platforms": [
+      2,
+      1,
+      18
+    ],
+    "type": "paid",
+    "learningPaths": [
+      "Multi-Platform App Developer"
+    ]
+  },
+  {
+    "id": 199,
+    "name": "Menjadi Flutter Developer Expert",
+    "description": "Tingkatkan skill kamu menjadi seorang Flutter expert dengan kurikulum yang fokus pada case study dan best practice dari pelaku industri.",
+    "logo": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/menjadi_flutter_developer_expert_logo_230320223141.jpg",
+    "link": "https://www.dicoding.com/academies/199",
+    "students": 0,
+    "modules": 0,
+    "hours": 70,
+    "rating": 0,
+    "levels": [
+      2
+    ],
+    "platforms": [
+      2,
+      1,
+      18
+    ],
+    "type": "paid",
+    "learningPaths": [
+      "Multi-Platform App Developer"
+    ]
+  },
+  {
+    "id": 135,
+    "name": "Belajar Membuat Augmented Reality",
+    "description": "Pelajari materi dasar Augmented Reality (AR) dengan menggunakan teknologi dari ARCore, Vuforia, dan Spark AR Studio.",
+    "logo": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/belajar_membuat_augmented_reality_logo_071119141445.png",
+    "link": "https://www.dicoding.com/academies/135",
+    "students": 3830,
+    "modules": 42,
+    "hours": 40,
+    "rating": 4.76,
+    "levels": [
+      1
+    ],
+    "platforms": [
+      16
+    ],
+    "type": "paid",
+    "learningPaths": [
+      "AR/VR Developer"
+    ]
+  },
+  {
+    "id": 150,
+    "name": "Belajar Membuat Virtual Reality",
+    "description": "Pelajari cara membuat aplikasi VR dengan menggunakan teknologi Google Cardboard, Daydream dari Google, dan Samsung Gear VR dari Oculus.",
+    "logo": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/belajar_membuat_virtual_reality_logo_251119111738.png",
+    "link": "https://www.dicoding.com/academies/150",
+    "students": 489,
+    "modules": 40,
+    "hours": 40,
+    "rating": 4.84,
+    "levels": [
+      1
+    ],
+    "platforms": [
+      16
+    ],
+    "type": "paid",
+    "learningPaths": [
+      "AR/VR Developer"
+    ]
+  },
+  {
+    "id": 155,
+    "name": "Belajar Membuat Mixed Reality",
+    "description": "Pelajari materi dasar tentang Mixed Reality (MR) menggunakan perangkat HoloLens milik Microsoft pada sistem operasi Windows 10.",
+    "logo": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/belajar_membuat_mixed_reality_logo_060120090033.png",
+    "link": "https://www.dicoding.com/academies/155",
+    "students": 1894,
+    "modules": 20,
+    "hours": 40,
+    "rating": 0,
+    "levels": [
+      1
+    ],
+    "platforms": [
+      16
+    ],
+    "type": "free",
+    "learningPaths": [
+      "AR/VR Developer"
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Belajar Membuat Aplikasi Kognitif",
+    "description": "Kelas ini didesain untuk developer yang ingin mempelajari aplikasi kognitif dengan menggunakan teknologi IBM Watson.",
+    "logo": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/belajar_membuat_aplikasi_kognitif_logo_071119140247.png",
+    "link": "https://www.dicoding.com/academies/68",
+    "students": 4117,
+    "modules": 23,
+    "hours": 40,
+    "rating": 4.88,
+    "levels": [
+      1
+    ],
+    "platforms": [
+      13,
+      12
+    ],
+    "type": "paid",
+    "learningPaths": [
+      ""
+    ]
+  },
+  {
+    "id": 177,
+    "name": "Belajar Dasar Visualisasi Data",
+    "description": "Pelajari teknik dasar untuk representasi hasil data secara visual sehingga dapat mengkomunikasikan output dari data yang telah terproses.",
+    "logo": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/belajar_dasar_visualisasi_data_logo_230320223714.png",
+    "link": "https://www.dicoding.com/academies/177",
+    "students": 13987,
+    "modules": 47,
+    "hours": 40,
+    "rating": 4.84,
+    "levels": [
+      0
+    ],
+    "platforms": [
+      15
+    ],
+    "type": "free",
+    "learningPaths": [
+      "Machine Learning Developer"
+    ]
+  },
+  {
+    "id": 184,
+    "name": "Belajar Machine Learning untuk Pemula",
+    "description": "Pelajari materi dasar pengembangan machine learning dan langkah menciptakan model machine learning pertamamu untuk memproses data.",
+    "logo": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/belajar_machine_learning_untuk_pemula_logo_230320224801.jpg",
+    "link": "https://www.dicoding.com/academies/184",
+    "students": 7716,
+    "modules": 47,
+    "hours": 40,
+    "rating": 4.75,
+    "levels": [
+      1
+    ],
+    "platforms": [
+      14
+    ],
+    "type": "paid",
+    "learningPaths": [
+      "Machine Learning Developer"
+    ]
+  },
+  {
+    "id": 185,
+    "name": "Belajar Pengembangan Machine Learning",
+    "description": "Pelajari implementasi machine learning pada industri mulai dari computer vision, natural language, serta deployment proyek machine learning.",
+    "logo": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/belajar_pengembangan_machine_learning_logo_230320224830.jpg",
+    "link": "https://www.dicoding.com/academies/185",
+    "students": 568,
+    "modules": 63,
+    "hours": 70,
+    "rating": 5,
+    "levels": [
+      4
+    ],
+    "platforms": [
+      14
+    ],
+    "type": "paid",
+    "learningPaths": [
+      "Machine Learning Developer"
+    ]
+  },
+  {
+    "id": 153,
+    "name": "Belajar Membangun LINE Front-end Framework (LIFF)",
+    "description": "Belajar membuat Front-end Framework dari LINE yang memungkinkan aplikasi dan game berbasis web Anda dapat berjalan di dalam platform LINE.",
+    "logo": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/belajar_membangun_line_front_end_framework_logo_181119205440.png",
+    "link": "https://www.dicoding.com/academies/153",
+    "students": 2608,
+    "modules": 28,
+    "hours": 40,
+    "rating": 4.98,
+    "levels": [
+      1
+    ],
+    "platforms": [
+      7
+    ],
+    "type": "paid",
+    "learningPaths": [
+      ""
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Belajar Membangun LINE Chatbot",
+    "description": "Belajar membuat chatbot yang menarik pada platform LINE dengan menggunakan fitur-fitur dari LINE Messaging API.",
+    "logo": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/belajar_membangun_line_chatbot_logo_161219160742.png",
+    "link": "https://www.dicoding.com/academies/32",
+    "students": 12226,
+    "modules": 22,
+    "hours": 40,
+    "rating": 4.91,
+    "levels": [
+      1
+    ],
+    "platforms": [
+      2,
+      19,
+      7
+    ],
+    "type": "paid",
+    "learningPaths": [
+      ""
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Belajar Membuat Game dengan Construct 2",
+    "description": "Pelajari cara membuat game dengan mudah menggunakan Construct 2, sebuah tools jitu untuk membuat game 2D hanya dengan drag and drop.",
+    "logo": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/belajar_membuat_game_dengan_construct_2_logo_071119140229.png",
+    "link": "https://www.dicoding.com/academies/65",
+    "students": 6896,
+    "modules": 35,
+    "hours": 40,
+    "rating": 5,
+    "levels": [
+      1
+    ],
+    "platforms": [
+      2,
+      7
+    ],
+    "type": "free",
+    "learningPaths": [
+      ""
+    ]
+  },
+  {
+    "id": 95,
+    "name": "Menjadi Construct 2 Developer Expert",
+    "description": "Belajar membuat game multiplayer dengan genre top-down shooter menggunakan Construct 2, tools jitu untuk membuat game 2D dengan drag & drop.",
+    "logo": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/menjadi_construct_2_developer_expert_logo_071119141208.png",
+    "link": "https://www.dicoding.com/academies/95",
+    "students": 290,
+    "modules": 121,
+    "hours": 70,
+    "rating": 5,
+    "levels": [
+      4,
+      2
+    ],
+    "platforms": [
+      2,
+      7
+    ],
+    "type": "paid",
+    "learningPaths": [
+      ""
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Belajar Membuat Game untuk Pemula",
+    "description": "Belajar tahapan membuat game bergenre arcade dengan Unity, salah satu game engine populer di industri game Indonesia dan dunia.",
+    "logo": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/belajar_membuat_game_untuk_pemula_logo_071119140724.png",
+    "link": "https://www.dicoding.com/academies/58",
+    "students": 8195,
+    "modules": 26,
+    "hours": 40,
+    "rating": 4.91,
+    "levels": [
+      1
+    ],
+    "platforms": [
+      3
+    ],
+    "type": "paid",
+    "learningPaths": [
+      ""
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Menjadi Game Developer Expert",
+    "description": "Belajar game engine Unity dengan studi kasus 8 jenis game seperti platformer, arcade, shooter, virtual reality, multiplayer, dan lainnya.",
+    "logo": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/menjadi_game_developer_expert_logo_071119140603.png",
+    "link": "https://www.dicoding.com/academies/47",
+    "students": 2909,
+    "modules": 125,
+    "hours": 140,
+    "rating": 4.83,
+    "levels": [
+      4,
+      2
+    ],
+    "platforms": [
+      2,
+      1,
+      3
+    ],
+    "type": "paid",
+    "learningPaths": [
+      ""
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Kotlin Android Developer Expert",
+    "description": "Kuasai Kotlin, bahasa yang didukung Google untuk Android. Didesain bagi Android developer berpengalaman yang ingin belajar Kotlin.",
+    "logo": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/kotlin_android_developer_expert_logo_071119140645.png",
+    "link": "https://www.dicoding.com/academies/55",
+    "students": 5973,
+    "modules": 57,
+    "hours": 70,
+    "rating": 4.97,
+    "levels": [
+      2
+    ],
+    "platforms": [
+      2
+    ],
+    "type": "paid",
+    "learningPaths": [
+      ""
+    ]
+  }
+]
