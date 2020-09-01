@@ -1,0 +1,11 @@
+{
+  "name": "dicoding-api",
+  "version": "1.0.0",
+  "description": "Unofficial API for Dicoding pillars",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rizqy H.",
+  "license": "MIT"
+}
