@@ -1,0 +1,9 @@
+{
+    "description": "Unofficial API for Dicoding platform",
+    "source": "https://github.com/rizqyhi/dicoding-api",
+    "author": "https://twitter.com/rizqyhi",
+    "endpoints": [
+        "/api/courses",
+        "/api/learning-paths"
+    ]
+}
