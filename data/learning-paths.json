@@ -1,0 +1,94 @@
+[
+  {
+    "id": 7,
+    "name": "Android Developer",
+    "link": "https://www.dicoding.com/learningpaths/7",
+    "logo": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/android_developer_logo_201219145044.png",
+    "description": "Seorang Android Developer adalah Software Developer yang berspesialisasi dalam merancang dan membangun aplikasi untuk pasar operating system Android. Menurut Google, sebagai pemilik dari Android, seorang Android Developer harus memiliki keahlian dalam app functionality, user interface, data management, debugging dan testing. Mereka juga memiliki kemampuan dengan setidaknya bahasa pemrograman Java atau Kotlin walaupun industri merekomendasikan seorang Android Developer dapat menggunakan keduanya. Dan saat ini penguasaan terhadap Jetpack juga sudah menjadi kewajiban untuk mengoptimalkan proses mengembangkan aplikasi Android.\nKurikulum Android Developer di Dicoding telah dikembangkan langsung dengan Google menggunakan kurikulum resmi Google Developers. Setiap langkah dalam learning path ini telah didesain agar dapat mempersiapkan siswa mengambil ujian sertifikasi Associate Android Developer dari Google.",
+    "courses": [
+      80,
+      169,
+      51,
+      14,
+      129,
+      165
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Azure Cloud Developer",
+    "link": "https://www.dicoding.com/learningpaths/2",
+    "logo": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/cloud_developer_logo_201219145056.png",
+    "description": "Pengembang Cloud Profesional dapat membuat aplikasi yang scalable menggunakan praktik dan alat yang direkomendasikan oleh berbagai Cloud Solution Provider. Seorang Cloud Developer dapat sepenuhnya memanfaatkan layanan yang disediakan oleh Cloud Solution Provider tersebut. Individu ini memiliki pengalaman dengan basis data generasi berikutnya, lingkungan runtime, dan alat pengembang. Mereka juga memiliki kemampuan dengan setidaknya satu bahasa pemrograman umum dan terampil menghasilkan metrik dan log yang bermakna untuk debug dan melacak kode.\nKurikulum Azure Cloud di Dicoding telah dikembangkan langsung dengan Microsoft Azure. Masing-masing kelas telah didesain agar dapat mempersiapkan siswa untuk mendapatkan sertifikasi resmi dari Microsoft yaitu Microsoft Certified: Azure Fundamentals dan Microsoft Certified: Azure Developer Associate.",
+    "courses": [
+      144,
+      83
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Front-End Web Developer",
+    "link": "https://www.dicoding.com/learningpaths/22",
+    "logo": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/web_developer_logo_201219135331.png",
+    "description": "Seorang Front-End Web Developer adalah Software Developer yang bertanggung jawab untuk merancang dan membangun berbagai aplikasi web secara responsif, interaktif, dan juga user friendly. Seorang Front-End Web Developer memiliki peranan besar dalam pengembangan aplikasi web karena bertanggung jawab langsung kepada pengalaman pengguna. Di sini Anda akan diajarkan mulai dari dasar seperti pengenalan HTML, CSS kemudian menyusun layout yang responsif dengan Flexbox. Lalu Anda juga akan belajar cara membangun website dengan UI yang interaktif dan menghubungkan website dengan back-end server yang keduanya dilakukan menggunakan JavaScript. Hingga Anda akan belajar bagaimana cara membuat website yang dapat diakses secara offline dengan menerapkan Service Worker.\nKurikulum Front-End Web Developer di Dicoding telah dikembangkan dengan pelaku industri yang bergerak di bidang Web Development. Setiap langkah dalam learning path ini telah didesain agar siswa dapat memiliki pengetahuan yang cukup untuk menjadi seorang Front-End Web Developer yang dapat memenuhi kebutuhan industri.",
+    "courses": [
+      123,
+      163,
+      74,
+      219
+    ]
+  },
+  {
+    "id": 9,
+    "name": "iOS Developer",
+    "link": "https://www.dicoding.com/learningpaths/9",
+    "logo": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/ios_developer_logo_260320162607.png",
+    "description": "Seorang iOS Developer adalah Software Developer yang berspesialisasi dalam merancang dan membangun aplikasi untuk pasar operating system iOS. Menurut Apple, sebagai pemilik dari iOS, seorang iOS Developer harus memiliki keahlian dalam bahasa pemrograman Swift dan SwiftUI pada IDE XCode. Seorang iOS Developer harus mampu integrasikan teknologi mutakhir dari iOS untuk menciptakan pengalaman luar biasa pada aplikasinya.\nKurikulum iOS Developer di Dicoding telah dikembangkan dengan pelaku industri yang bergerak di bidang iOS Development. Setiap langkah dalam learning path ini telah didesain agar siswa dapat memiliki pengetahuan yang cukup untuk menjadi seorang iOS Developer yang dapat memenuhi kebutuhan industri.\nNantikan kurikulum terbaru kami pada Learning Path ini:",
+    "courses": [
+      145,
+      169,
+      171,
+      202,
+      209
+    ]
+  },
+  {
+    "id": 23,
+    "name": "AR/VR Developer",
+    "link": "https://www.dicoding.com/learningpaths/23",
+    "logo": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/ar_vr_developer_logo_301219145216.png",
+    "description": "Seorang AR/VR Developer adalah Software Developer yang memiliki kemampuan untuk mengimplementasikan teknologi Augmented Reality dan Virtual Reality ke dalam suatu aplikasi atau game. Untuk menjadi seorang AR/VR Developer, maka seseorang harus memiliki kemampuan untuk menciptakan dunia immersive atau environments yang dapat berinteraksi dengan 3 dimensi, seperti dunia nyata. Seorang AR/VR Developer harus dapat mengetahui perbedaan Augmented Reality dengan Virtual Reality dan dapat menciptakan keduanya termasuk mengkombinasikannya pada MR (Mixed Reality).\nKurikulum AR/VR Developer di Dicoding telah dikembangkan dengan pelaku industri yang bergerak di bidang Augmented Reality dan Virtual Reality. Setiap langkah dalam learning path ini telah didesain agar siswa dapat memiliki pengetahuan yang cukup untuk menjadi seorang AR/VR Developer yang dapat memenuhi kebutuhan industri.",
+    "courses": [
+      135,
+      150,
+      155
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Multi-Platform App Developer",
+    "link": "https://www.dicoding.com/learningpaths/21",
+    "logo": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/multi_platform_app_developer_logo_240320142243.png",
+    "description": "Seorang Multi-Platform Developer adalah Software Developer yang berspesialisasi dalam merancang dan membangun aplikasi yang dapat digunakan di berbagai sistem operasi populer seperti Android dan iOS. Menurut Google, sekarang standar industri sebagai developer Multi-Platform App adalah memiliki keahlian dalam framework Flutter. Flutter adalah toolkit UI Google untuk membuat aplikasi yang indah, yang dikompilasi secara native untuk seluler, web, dan desktop dari basis kode tunggal. Developer juga perlu memiliki kemampuan bahasa pemrograman Dart.\nKurikulum Flutter di Dicoding telah dikembangkan langsung dengan Google menggunakan kurikulum resmi Google Developers. Setiap langkah dalam learning path ini telah didesain agar siswa dapat memiliki pengetahuan yang cukup untuk menjadi seorang Multi-Platform Developer yang dapat memenuhi kebutuhan industri.\nNantikan kurikulum terbaru kami pada Learning Path ini:",
+    "courses": [
+      191,
+      169,
+      159,
+      195,
+      199
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Machine Learning Developer",
+    "link": "https://www.dicoding.com/learningpaths/30",
+    "logo": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/machine_learning_developer_logo_270320105641.png",
+    "description": "Seorang Machine Learning Developer adalah pakar dalam menggunakan data untuk model pelatihan. Model-model tersebut kemudian digunakan untuk mengotomatisasi proses seperti klasifikasi gambar, pengenalan suara, dan perkiraan pasar. Sering kali ada penggabungan dengan peran data scientist atau artificial intelligence (AI) engineer. Machine learning adalah subbidang AI yang berfokus pada analisis data untuk menemukan hubungan antara input dan output yang diinginkan. Seorang pengembang pemelajaran mesin harus mampu menghasilkan solusi yang dibuat khusus untuk setiap masalah dan mencapai hasil optimal dengan hati-hati memproses data dan memilih algoritma terbaik untuk konteks yang diberikan.\nKurikulum Machine Learning di Dicoding telah dikembangkan langsung bersama IBM dan Google menggunakan kurikulum resmi dari masing-masing perusahaan. Setiap langkah dalam learning path ini telah didesain agar siswa dapat memiliki pengetahuan yang cukup untuk menjadi seorang Machine Learning Developer yang dapat memenuhi kebutuhan industri.",
+    "courses": [
+      177,
+      86,
+      184,
+      185
+    ]
+  }
+]
